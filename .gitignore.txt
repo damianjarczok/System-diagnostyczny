@@ -1,0 +1,9 @@
+# .gitignore
+venv/
+*.wav
+*.dll
+*.pyd
+*.lib
+*.pyc
+__pycache__/
+.DS_Store
